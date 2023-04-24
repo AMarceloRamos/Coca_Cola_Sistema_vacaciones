@@ -1,0 +1,8 @@
+*** Empaquetado ***
+
+jar cvfm SistemaVacacioincipal.javanal.jar manifest.mf Bienvenida.class Licencia.class 
+Principal.class images/coca-cola.png images/icon.png images/logo-coca.png images/coca-cola-blanco.png
+
+*** Ejecucion archivo jar  ***
+
+java -jar SistemaVacacional.jar
